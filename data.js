@@ -202,6 +202,20 @@ window.PORTFOLIO_DATA = {
     intro: "Interface and product design work across mobile apps, websites, launcher icons, and promotional assets.",
     projects: [
       {
+        title: "ChillHea",
+        type: "Mobile application",
+        link: "https://www.figma.com/design/X2yOKrSBP6g5zxJiwxLkQt/G2_Final-Interactive-Prototype?node-id=0-1&t=Di9Ubx5dETvA6D9V-1",
+        notes: ["Project overview"],
+        mediaSections: [
+          {
+            label: "Project Overview",
+            fit: "contain",
+            images: ["assets/uxui/chillhea-overview.png"]
+          }
+        ],
+        images: []
+      },
+      {
         title: "Meowdonald",
         type: "Mobile application",
         link: "https://www.figma.com/design/DArEKG42yzxmA0Cdbhw6Li/Meowdonald?m=auto&t=Aeq2vDajWslQR5CS-6",
