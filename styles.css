@@ -440,3 +440,7 @@ body[data-page="painting"] .meta-line strong {
     font-size: 1.6rem;
   }
 }
+.project-card__gallery--stacked-sections .media-stack {
+  display: grid;
+  gap: 32px;
+}
