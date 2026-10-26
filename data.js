@@ -202,6 +202,34 @@ window.PORTFOLIO_DATA = {
     intro: "Interface and product design work across mobile apps, websites, launcher icons, and promotional assets.",
     projects: [
       {
+        title: "Cplus Trust App",
+        type: "Mobile application",
+        notes: ["Project overview", "Design system"],
+        mediaSectionsLayout: "stacked-carousels",
+        mediaSections: [
+          {
+            label: "Project Overview",
+            fit: "contain",
+            images: [
+              "assets/uxui/cplus-trust-overview-01.png",
+              "assets/uxui/cplus-trust-overview-02.png",
+              "assets/uxui/cplus-trust-overview-03.png",
+              "assets/uxui/cplus-trust-overview-04.png",
+              "assets/uxui/cplus-trust-overview-05.png"
+            ]
+          },
+          {
+            label: "Design System",
+            fit: "contain",
+            images: [
+              "assets/uxui/cplus-trust-design-system-01.png",
+              "assets/uxui/cplus-trust-design-system-02.png"
+            ]
+          }
+        ],
+        images: []
+      },
+      {
         title: "ChillHea",
         type: "Mobile application",
         link: "https://www.figma.com/design/X2yOKrSBP6g5zxJiwxLkQt/G2_Final-Interactive-Prototype?node-id=0-1&t=Di9Ubx5dETvA6D9V-1",
