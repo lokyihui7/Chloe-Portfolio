@@ -444,3 +444,16 @@ body[data-page="painting"] .meta-line strong {
   display: grid;
   gap: 32px;
 }
+.project-card__gallery--stacked-sections .project-card__figure--contain {
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.project-card__gallery--stacked-sections .project-card__image--contain {
+  width: 100%;
+  height: auto;
+  max-height: 380px;
+  object-fit: contain;
+}
