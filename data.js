@@ -210,7 +210,7 @@ window.PORTFOLIO_DATA = {
           {
             label: "Project Overview",
             fit: "contain",
-            images: ["assets/uxui/chillhea-overview.png"]
+            images: ["assets/uxui/assets/uxui/chillhea-overview.png"]
           }
         ],
         images: []
