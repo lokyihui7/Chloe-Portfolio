@@ -233,6 +233,12 @@ window.PORTFOLIO_DATA = {
         title: "ChillHea",
         type: "Mobile application",
         link: "https://www.figma.com/design/X2yOKrSBP6g5zxJiwxLkQt/G2_Final-Interactive-Prototype?node-id=0-1&t=Di9Ubx5dETvA6D9V-1",
+        links: [
+  {
+    label: "Open Project Portfolio",
+    href: "https://lokyihui7.github.io/cs3189-portfolio/"
+  }
+],
         notes: ["Project overview"],
         mediaSections: [
           {
