@@ -204,6 +204,7 @@ window.PORTFOLIO_DATA = {
       {
         title: "Cplus Trust App",
         type: "Mobile application",
+        link: "https://www.figma.com/design/iz7vbgIS2vmvJj95Zc8MzE/Cplus-Trust-App?t=R30Cq3oBvjS563vA-1",
         notes: ["Project overview", "Design system"],
         mediaSectionsLayout: "stacked-carousels",
         mediaSections: [
